@@ -6,6 +6,10 @@ that talks to the internet. All credit for the application goes to the ShareX Te
 
 It is licensed under the **GNU General Public License v3**, same as ShareX. See `LICENSE.txt`.
 
+[![CrySnap trailer](docs/promo.gif)](https://cryme.tr/crysnap/)
+
+_[Watch the trailer with sound](https://cryme.tr/crysnap/)_
+
 ## What it does
 
 - Screen capture: region, window, monitor, fullscreen, scrolling capture, auto capture.
